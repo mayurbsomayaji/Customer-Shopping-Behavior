@@ -46,6 +46,9 @@ Use the SQL file (`CSD.sql`) to explore/query underlying data.
 
 ## 📈 Dashboard (.pbix)  
 The Power BI file `CSB.pbix` contains the interactive dashboard allowing you to filter by demographics, product category, time period, and visualize spend/ratings. It complements the notebook analysis by offering business-friendly views.
+### 📊 Dashboard Preview
+![Dashboard Screenshot](dashboard.png)
+
 
 ## 📝 License  
 This project is licensed under the [MIT License](LICENSE).
